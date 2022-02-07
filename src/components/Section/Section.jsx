@@ -1,3 +1,4 @@
+import './Section.module.css';
 const Section = ({children , title}) => {
     return ( <>
    
